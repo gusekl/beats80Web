@@ -1,11 +1,16 @@
 .App {
   text-align: center;
-  background-color: black;
-  height: 100vh;
+  background-color: #231F20;
+  height: 80vh;
+  padding: 10vh;
 }
 
 .header{
-  height: 10vh;
+  height: 64px;
   background-color: darkgray;
   display: flex;
+}
+
+.primary-color {
+  color: bisque;
 }
