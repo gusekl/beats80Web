@@ -1,0 +1,37 @@
+.nav-container{
+  display: flex;
+  flex-direction: row;
+  background-color: #231F20;
+}
+
+.nav{
+  padding: 0 5%;
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.page-title{
+  color: antiquewhite;
+}
+
+.module-clickable{
+  padding:8px;
+  margin: 1rem;
+  background-color: blanchedalmond;
+  border: 0;
+  border-radius: 5%;
+}
+
+.module-clickable:hover{
+  opacity: 85%;
+}
+
+.module-clickable:active{
+  opacity: 50%;
+}
+
+.module-text{
+  margin: 0;
+}

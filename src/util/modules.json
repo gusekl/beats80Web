@@ -1,0 +1,11 @@
+{
+  "modules":[{
+    "name": "Kontakt"
+  },
+  {
+    "name": "FAQ"
+  },
+  {
+    "name": "Spelschema"
+  }]
+}

@@ -1,14 +1,7 @@
 .App {
   text-align: center;
-  background-color: #231F20;
-  height: 80vh;
-  padding: 10vh;
-}
-
-.header{
-  height: 64px;
-  background-color: darkgray;
-  display: flex;
+  background-color:antiquewhite;
+  height: 100vh;
 }
 
 .primary-color {
